@@ -1,5 +1,7 @@
 # QuCAT: Application of Combinatorial Testing to Quantum Programs
 
+<img src="QuCAT_logo.png" width="200">
+
 This repository contains the code to reproduce the results of the paper "Application of Combinatorial Testing to Quantum Programs" published in QRS 2021.
 
 It also contains the original results reported in the paper.
