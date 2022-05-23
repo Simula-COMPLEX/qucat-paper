@@ -58,3 +58,6 @@ python Scenario2_gen.py
 
 
 Results of the search will be saved in folder *results*
+
+## Paper
+X. Wang, P. Arcaini, T. Yue and S. Ali. Application of Combinatorial Testing to Quantum Programs. In 21st International Conference on Software Quality, Reliability and Security (QRS 2021) [[doi](https://doi.org/10.1109/QRS54544.2021.00029)]
